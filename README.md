@@ -5,6 +5,8 @@
 
 i4read is a reddit client for iOS and Android. It's built with React Native and Typescript.
 
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzE2YTU5ZDE2MTI4ODE3ZTk1OWU1ZjA2MzczNDMzNDc3YWEzOTA3YyZjdD1n/jjiIU1K832jGXoPBm5/giphy.gif)
+
 ## Menu
 
 - [i4sea - Mobile Challenge](#i4sea---mobile-challenge)
