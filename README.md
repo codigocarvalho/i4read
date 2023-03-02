@@ -75,9 +75,7 @@ yarn test
 
 Use the link below to download the apk (Android only)
 
-```bash
-  comming soon
-```
+[https://portal.testapp.io/apps/install/d3bdla3GN9z4W](https://portal.testapp.io/apps/install/d3bdla3GN9z4W)
 
 ## Author
 
